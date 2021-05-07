@@ -7,7 +7,7 @@
    Efetuar a leitura do sensor de presença (PIR), serve para o modelo tradicional ou mini
 */
 
-#define sensor 5
+#define sensor 7
 
 void setup() {
   Serial.begin(9600);
